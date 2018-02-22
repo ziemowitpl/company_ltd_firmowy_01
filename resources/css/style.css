@@ -497,6 +497,10 @@ header {
     position: relative;
 }
 
+.link-realizations {
+    text-decoration: none;
+}
+
 /*----------------------------------------*/
 /*---------SECTION USERS/TEAM-------------*/
 /*----------------------------------------*/

@@ -7,14 +7,15 @@
         padding: 0 2%;
     }
     /*GRAPHIC REALISATIONS SECTION*/
-    .realizations-box a div h3 {
-        bottom: -10%;
-        font-size: 100%;
+    .overlay .link-realizations {
+        height: 90px;
+        padding-bottom: 20px;
     }
-    .realizations-box a div p {
-        font-size: 70%;
-        width: 90%;
-        left: 5%;
+
+    .title3 {
+        top:20%;
+        position: relative;
+        font-size: 80%;
     }
 }
 
@@ -57,6 +58,15 @@
     }
     .section-features .box p {
         font-size: 80%;
+    }
+    /*GRAPHIC REALISATIONS SECTION*/
+    .overlay .link-realizations {
+        height: 70px;
+        padding-bottom: 10px;
+    }
+
+    .title3 {
+        font-size: 70%;
     }
     /*TEAM SECTION USERS/TEAM */
     .user-box h3 {
@@ -175,12 +185,13 @@
     .realizations-box {
         width: 50%;
     }
-    .realizations-box a div h3 {
-        bottom: -10%;
-        font-size: 120%;
+    .overlay .link-realizations {
+        height: 90px;
+        padding-bottom: 10px;
     }
-    .realizations-box a div p {
-        display: none;
+
+    .title3 {
+        font-size: 100%;
     }
     /*TEAM SECTION USERS/TEAM */
     .user-box h3 {
@@ -293,6 +304,16 @@
     }
     .hero-text-box p {
         font-size: 75%;
+    }
+
+    /*GRAPHIC REALISATIONS SECTION*/
+    .overlay .link-realizations {
+        height: 70px;
+        padding-bottom: 10px;
+    }
+
+    .title3 {
+        font-size: 80%;
     }
     /*TEAM SECTION USERS/TEAM */
     .section-team {
